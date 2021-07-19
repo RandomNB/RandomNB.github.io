@@ -27,7 +27,7 @@ github_username:  RandomNB
 show_downloads: false
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 links:
