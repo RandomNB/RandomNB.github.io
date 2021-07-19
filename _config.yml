@@ -28,8 +28,8 @@ show_downloads: false
 
 # Build settings
 theme: jekyll-theme-slate
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 links:
   - url: "http://hitcxy.com/"
     name: "pikachu's Blog"
