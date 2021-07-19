@@ -34,3 +34,4 @@ gem "webrick", "~> 1.7"
 # Themes
 # gem "just-the-docs"
 # gem "github-pages", group: :jekyll_plugins
+# gem "jekyll-theme-slate"
